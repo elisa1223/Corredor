@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 namespace Consolacorredores
 {
     internal class Program
-    {
+    {//diego pendejo
         static void Main(string[] args)
         {
             Console.WriteLine("¡Carrera de hilos!");
