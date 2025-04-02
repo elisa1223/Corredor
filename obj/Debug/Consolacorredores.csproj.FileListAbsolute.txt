@@ -12,3 +12,10 @@ C:\Users\yaret\OneDrive\Escritorio\clon\Corredor\obj\Debug\Consolacorredores.csp
 C:\Users\yaret\OneDrive\Escritorio\clon\Corredor\obj\Debug\Consolacorredores.csproj.CoreCompileInputs.cache
 C:\Users\yaret\OneDrive\Escritorio\clon\Corredor\obj\Debug\Consolacorredores.exe
 C:\Users\yaret\OneDrive\Escritorio\clon\Corredor\obj\Debug\Consolacorredores.pdb
+C:\Users\gozal\Documents\Corredor\Corredor\bin\Debug\Consolacorredores.exe.config
+C:\Users\gozal\Documents\Corredor\Corredor\bin\Debug\Consolacorredores.exe
+C:\Users\gozal\Documents\Corredor\Corredor\bin\Debug\Consolacorredores.pdb
+C:\Users\gozal\Documents\Corredor\Corredor\obj\Debug\Consolacorredores.csproj.AssemblyReference.cache
+C:\Users\gozal\Documents\Corredor\Corredor\obj\Debug\Consolacorredores.csproj.CoreCompileInputs.cache
+C:\Users\gozal\Documents\Corredor\Corredor\obj\Debug\Consolacorredores.exe
+C:\Users\gozal\Documents\Corredor\Corredor\obj\Debug\Consolacorredores.pdb

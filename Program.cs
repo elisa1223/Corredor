@@ -4,7 +4,6 @@ using System.Linq;
 using System.Text;
 using System.Threading;
 using System.Threading.Tasks;
-// diego es gai 
 
 namespace Consolacorredores
 {
@@ -14,23 +13,26 @@ namespace Consolacorredores
         {
             Console.WriteLine("¡Carrera de hilos!");
 
-            // Crear tres corredores
+            // Crear cinco corredores
             Thread corredorA = new Thread(Correr);
             Thread corredorB = new Thread(Correr);
             Thread corredorC = new Thread(Correr);
             Thread corredorD = new Thread(Correr);
+            Thread corredorE = new Thread(Correr);
 
             corredorA.Start("Corredor A");
             corredorB.Start("Corredor B");
             corredorC.Start("Corredor C");
             corredorD.Start("Corredor D");
+            corredorE.Start("Corredor E");
 
             corredorA.Join();
             corredorB.Join();
             corredorC.Join();
             corredorD.Join();
+            corredorE.Join();
 
-            Console.WriteLine("¡Carrera terminada!");//
+            Console.WriteLine("¡Carrera terminada!");
         }
 
         static void Correr(object nombre)
@@ -45,4 +47,3 @@ namespace Consolacorredores
         }
     }
 }
-
