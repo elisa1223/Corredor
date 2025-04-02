@@ -1,0 +1,7 @@
+C:\Users\coron\source\repos\Consolacorredores\bin\Debug\Consolacorredores.exe.config
+C:\Users\coron\source\repos\Consolacorredores\bin\Debug\Consolacorredores.exe
+C:\Users\coron\source\repos\Consolacorredores\bin\Debug\Consolacorredores.pdb
+C:\Users\coron\source\repos\Consolacorredores\obj\Debug\Consolacorredores.csproj.AssemblyReference.cache
+C:\Users\coron\source\repos\Consolacorredores\obj\Debug\Consolacorredores.csproj.CoreCompileInputs.cache
+C:\Users\coron\source\repos\Consolacorredores\obj\Debug\Consolacorredores.exe
+C:\Users\coron\source\repos\Consolacorredores\obj\Debug\Consolacorredores.pdb
