@@ -5,3 +5,10 @@ C:\Users\coron\source\repos\Consolacorredores\obj\Debug\Consolacorredores.csproj
 C:\Users\coron\source\repos\Consolacorredores\obj\Debug\Consolacorredores.csproj.CoreCompileInputs.cache
 C:\Users\coron\source\repos\Consolacorredores\obj\Debug\Consolacorredores.exe
 C:\Users\coron\source\repos\Consolacorredores\obj\Debug\Consolacorredores.pdb
+C:\Users\yaret\OneDrive\Escritorio\clon\Corredor\bin\Debug\Consolacorredores.exe.config
+C:\Users\yaret\OneDrive\Escritorio\clon\Corredor\bin\Debug\Consolacorredores.exe
+C:\Users\yaret\OneDrive\Escritorio\clon\Corredor\bin\Debug\Consolacorredores.pdb
+C:\Users\yaret\OneDrive\Escritorio\clon\Corredor\obj\Debug\Consolacorredores.csproj.AssemblyReference.cache
+C:\Users\yaret\OneDrive\Escritorio\clon\Corredor\obj\Debug\Consolacorredores.csproj.CoreCompileInputs.cache
+C:\Users\yaret\OneDrive\Escritorio\clon\Corredor\obj\Debug\Consolacorredores.exe
+C:\Users\yaret\OneDrive\Escritorio\clon\Corredor\obj\Debug\Consolacorredores.pdb

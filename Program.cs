@@ -18,16 +18,19 @@ namespace Consolacorredores
             Thread corredorA = new Thread(Correr);
             Thread corredorB = new Thread(Correr);
             Thread corredorC = new Thread(Correr);
+            Thread corredorD = new Thread(Correr);
 
             corredorA.Start("Corredor A");
             corredorB.Start("Corredor B");
             corredorC.Start("Corredor C");
+            corredorD.Start("Corredor D");
 
             corredorA.Join();
             corredorB.Join();
             corredorC.Join();
+            corredorD.Join();
 
-            Console.WriteLine("¡Carrera terminada!");
+            Console.WriteLine("¡Carrera terminada!");//
         }
 
         static void Correr(object nombre)
